@@ -1,0 +1,7 @@
+# dependencies
+/node_modules
+
+# run
+/_site
+
+.idea
