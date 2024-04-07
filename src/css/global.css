@@ -306,6 +306,70 @@ hr {
     background-color: #3776AB;
 }
 
+.skills-container .grid-skills .angular:hover {
+    background-color: #dd1b16;
+}
+
+.skills-container .grid-skills .eleventy:hover {
+    background-color: #fb503b;
+}
+
+.skills-container .grid-skills .laravel:hover {
+    background-color: #fb503b;
+}
+
+.skills-container .grid-skills .kotlin:hover {
+    background-color: #7F52FF;
+}
+
+.skills-container .grid-skills .android:hover {
+    background-color: #3DDC84;
+}
+
+.skills-container .grid-skills .compose:hover {
+    background-color: #3776AB
+}
+
+.skills-container .grid-skills .mysql:hover {
+    background-color: #00758F;
+}
+
+.skills-container .grid-skills .firebase:hover {
+    background-color: #FFCB2B;
+}
+
+.skills-container .grid-skills .git:hover {
+    background-color: #ffa600;
+}
+
+.skills-container .grid-skills .github:hover {
+    background-color: #ffffff;
+}
+
+.skills-container .grid-skills .uml:hover {
+    background-color: #fff
+}
+
+.skills-container .grid-skills .linux:hover {
+    background-color: #FFCB2B;
+}
+
+.skills-container .grid-skills .figma:hover {
+    background-color: #ff00ea;
+}
+
+.skills-container .grid-skills .ui:hover {
+    background-color: #ffffff;
+}
+
+.skills-container .grid-skills .prototyping:hover {
+    background-color: #fff
+}
+
+.skills-container .grid-skills .wireframing:hover {
+    background-color: #ffffff;
+}
+
 /* Projects */
 .projects-container {
     padding: 2rem 0;
